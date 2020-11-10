@@ -48,31 +48,46 @@
     </nav>
 
     <div class="container">
-      <form>
-        <div class="form-group">
-          <label for="name">Name</label>
-          <input
-            type="text"
-            id="name"
-            class="form-control"
-            placeholder="Enter your name"
-          />
+      <div class="row mt-4 pt-5 border">
+        <div class="col-lg-6 offset-md-1 border">
+          <form>
+            <h1 class="display-6">Contact</h1>
+            <hr />
+            <div class="form-group">
+              <label for="fullname">Name</label>
+              <input
+                type="text"
+                id="name"
+                class="form-control"
+                placeholder="Full name"
+              />
+            </div>
+            <div class="form-group">
+              <label for="email">Email Address</label>
+              <input
+                type="email"
+                id="email"
+                class="form-control"
+                placeholder="Enter email"
+              />
+            </div>
+            <div class="form-group">
+              <label for="message">Message</label>
+              <textarea
+                class="form-control"
+                id="message"
+                rows="3"
+                placeholder="Enter Text"
+              ></textarea>
+            </div>
+            <input
+              type="submit"
+              value="Submit"
+              class="btn btn-sm btn-success"
+            />
+          </form>
         </div>
-        <div class="form-group">
-          <label for="email">Email Address</label>
-          <input
-            type="email"
-            id="email"
-            class="form-control"
-            placeholder="Enter your email"
-          />
-        </div>
-        <div class="form-group">
-          <label for="message">Message</label>
-          <textarea class="form-control" id="message" rows="3"></textarea>
-          <input type="submit" value="Submit" class="btn btn-sm btn-success" />
-        </div>
-      </form>
+      </div>
     </div>
 
     <!-- ************** Linking Bootsrap JS *********** -->
