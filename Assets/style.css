@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin:ital@1&display=swap");
+
+body {
+  background-color: #f1f6f9;
+  font-family: "Cabin", sans-serif;
+  /* background-image: url("https://www.transparenttextures.com/patterns/fabric-1-dark.png"); */
+}
+
+#square {
+  /* background-color: #394867; */
+}
