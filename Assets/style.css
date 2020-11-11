@@ -6,12 +6,11 @@ body {
   /* background-image: url("https://www.transparenttextures.com/patterns/fabric-1-dark.png"); */
 }
 
-img {
-  display: block;
+/* img {
   width: 25%;
   max-width: 200px;
   filter: grayscale(30%);
-}
+} */
 
 .footer {
   position: absolute;
