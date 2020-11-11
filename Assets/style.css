@@ -6,11 +6,20 @@ body {
   /* background-image: url("https://www.transparenttextures.com/patterns/fabric-1-dark.png"); */
 }
 
-/* img {
-  width: 25%;
-  max-width: 200px;
+h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+#headshot {
+  width: 100%;
+  max-width: 300px;
   filter: grayscale(30%);
-} */
+}
+
+.btn {
+  background-color: #62760c;
+}
 
 .footer {
   position: absolute;
@@ -24,8 +33,4 @@ body {
 .social-icon {
   padding-left: 20px;
   padding-right: 20px;
-}
-
-.btn {
-  background-color: #62760c;
 }
