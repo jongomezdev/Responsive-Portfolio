@@ -11,17 +11,11 @@ Some of the Components used included:
 - Cards
 - Buttons
 - Forms
-<<<<<<< HEAD
 
 For Layout I used Bootsrap's Grid.
 
 Utilities used were:
 
-=======
-  
-  Utilities used were:
-  
->>>>>>> c6e72508d3535eca5d887a389da7afc7598e807f
 - Flex
 - Colors
 - Spacing
