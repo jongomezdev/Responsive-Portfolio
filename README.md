@@ -1,8 +1,11 @@
 # Responsive-Portfolio
 
+---
+
 ## Description
 
-Create a mobile first Web Biography using the Bootstrap Framework. Some of the Components used included:
+Create a mobile first Web Portfolio using the Bootstrap Framework.
+Some of the Components used included:
 
 - Navbar
 - Cards
@@ -15,13 +18,17 @@ Create a mobile first Web Biography using the Bootstrap Framework. Some of the C
 - Spacing
 - Position
 
+---
+
 ## Installation
 
 Available for clone, simply copy & page the code/save images.
 
 - Be sure to link the Bootstrap CDN.
 
+---
+
 ### Links
 
 1. [GitHub Repo](https://github.com/jongomezdev/Responsive-Portfolio)
-2. [site](https://jongomezdev.github.io/Responsive-Portfolio/)
+2. [Live Site](https://jongomezdev.github.io/Responsive-Portfolio/)
