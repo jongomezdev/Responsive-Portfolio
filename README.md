@@ -25,7 +25,7 @@ Utilities used were:
 
 ## Installation
 
-Available for clone, simply copy & page the code/save images.
+Available for clone, simply copy & paste the code/save images.
 
 - Be sure to link the Bootstrap CDN.
 
