@@ -41,6 +41,7 @@ h1 {
   height: 30px;
   line-height: 30px;
   background-color: #52575d;
+  flex-shrink: 0;
 }
 
 .social-icon {
